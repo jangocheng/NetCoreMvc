@@ -22,4 +22,5 @@ namespace NetCoreMvc
                 .UseStartup<Startup>()
                 .Build();
     }
+
 }
