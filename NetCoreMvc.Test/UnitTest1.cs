@@ -8,7 +8,7 @@ namespace NetCoreMvc.Test
         [Fact]
         public void Test1()
         {
-
+            Console.WriteLine("hello world£¡");
         }
     }
 }
