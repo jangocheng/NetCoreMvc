@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCoreMvc.Models
+namespace NetCoreMvc.Web.Models
 {
     public class ErrorViewModel
     {
