@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMvc.Business", "NetC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMvc.Test", "NetCoreMvc.Test\NetCoreMvc.Test.csproj", "{2082D013-AD4D-4550-B7D4-711BAFE9558E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMvc.Api", "NetCoreMvc.Api\NetCoreMvc.Api.csproj", "{986E16A7-322F-4BA7-BE43-BE9A78BE62C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2082D013-AD4D-4550-B7D4-711BAFE9558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2082D013-AD4D-4550-B7D4-711BAFE9558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2082D013-AD4D-4550-B7D4-711BAFE9558E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986E16A7-322F-4BA7-BE43-BE9A78BE62C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986E16A7-322F-4BA7-BE43-BE9A78BE62C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986E16A7-322F-4BA7-BE43-BE9A78BE62C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986E16A7-322F-4BA7-BE43-BE9A78BE62C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
